@@ -2,17 +2,16 @@
 //  AlipaySDK.h
 //  AlipaySDK
 //
-//  Created by antfin on 17-10-24.
-//  Copyright (c) 2017年 AntFin. All rights reserved.
+//  Created by alipay on 16-12-12.
+//  Copyright (c) 2016年 Alipay. All rights reserved.
 //
 
 
 ////////////////////////////////////////////////////////
 ///////////////// 支付宝标准版本支付SDK ///////////////////
-/////////// version:15.5.0  motify:2017.10.24 ///////////
+/////////// version:15.4.1  motify:2017.07.26 ///////////
 ////////////////////////////////////////////////////////
 
-#import <UIKit/UIKit.h>
 
 #import "APayAuthInfo.h"
 typedef enum {

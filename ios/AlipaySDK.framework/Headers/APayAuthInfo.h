@@ -1,9 +1,9 @@
 //
 //  APAuthInfo.h
-//  APAuth
+//  AliSDKDemo
 //
-//  Created by antfin on 17-10-24.
-//  Copyright (c) 2017年 AntFin. All rights reserved.
+//  Created by alipay on 16-12-12.
+//  Copyright (c) 2016年 Alipay.com. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
